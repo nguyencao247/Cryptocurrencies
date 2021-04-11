@@ -1,3 +1,14 @@
+ 18_2_data_preprocessing.ipynb
+18_3_3_centroids.ipynb
+18_3_clustering.ipynb
+18_4__1_elbow_curve.ipynb
+18_4_2_elbow_curve.ipynb
+18_5_2_PCA.ipynb
+Resources/iris.csv
+Resources/new_iris_data.csv
+Resources/shopping_data.csv
+Resources/shopping_data_cleaned.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
